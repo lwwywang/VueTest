@@ -5415,6 +5415,11 @@ shallow-clone@^3.0.0:
   dependencies:
     kind-of "^6.0.2"
 
+shanxue-ui-1@0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/shanxue-ui-1/-/shanxue-ui-1-0.0.4.tgz#c24fab06e067fd3fd328cf34944c43cc4c7c52b5"
+  integrity sha512-kHnWlA+xhSQ/9KThFekuncBjlJly2Ig9kuiVfPGHP/fh37ROxtzjuLmgjilCDiDkq8WeQ80oQVldSq4FNzMIfQ==
+
 shebang-command@^1.2.0:
   version "1.2.0"
   resolved "https://registry.npmmirror.com/shebang-command/-/shebang-command-1.2.0.tgz#44aac65b695b03398968c39f363fee5deafdf1ea"
